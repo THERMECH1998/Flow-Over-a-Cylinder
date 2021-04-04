@@ -1,0 +1,24 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by ANSYS Workbench.
+# Project name: Circular_cyl_1
+# Creation date: 03/28/2021 10:29:44
+# 
+# 03/28/2021 10:29:44
+# The parameters defined in the project are:
+# ,P1 - drag_coeffecient-op,P2 - lift_coeffecient-op
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2
+DP 0,1.2148032,0.2874516
+# 
+# A non parametric change occurred and invalidated design point results.
+# 03/28/2021 10:30:56
+# 
+# 
+# A non parametric change occurred and invalidated design point results.
+# 03/28/2021 18:00:07
+# 
+# 
+# A non parametric change occurred and invalidated design point results.
+# 03/29/2021 05:25:47
+# 
